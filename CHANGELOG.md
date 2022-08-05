@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/taisa831/release-please/compare/v1.3.0...v1.4.0) (2022-08-05)
+
+
+### Features
+
+* add release-as ([df565e3](https://github.com/taisa831/release-please/commit/df565e3a20a0e27b0559649164139915b86be122))
+
 ## [1.3.0](https://github.com/taisa831/release-please/compare/v1.2.0...v1.3.0) (2022-08-05)
 
 
