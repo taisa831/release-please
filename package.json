@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "release-please": "^13.19.8"
+  }
+}
