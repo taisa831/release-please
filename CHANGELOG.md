@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/taisa831/release-please/compare/v1.2.0...v1.3.0) (2022-08-05)
+
+
+### Features
+
+* bootstrap-sha ([cb080a5](https://github.com/taisa831/release-please/commit/cb080a54e141d8098841075b6254286fcf8f993b))
+* bootstrap-sha ([f2c5c99](https://github.com/taisa831/release-please/commit/f2c5c9996090df3e99c5ef57ec84d5aec4c4f0d2))
+
+
+### Bug Fixes
+
+* conflict ([c73dc2d](https://github.com/taisa831/release-please/commit/c73dc2d0f16f4cad71d1cf069c52d1565626bfd8))
+
 ## [1.2.0](https://github.com/taisa831/release-please/compare/v1.1.0...v1.2.0) (2022-08-05)
 
 
