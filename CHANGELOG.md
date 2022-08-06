@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.2](https://github.com/taisa831/release-please/compare/v2.0.1...v2.0.2) (2022-08-06)
+
+
+### Bug Fixes
+
+* prerelease false ([39a8a93](https://github.com/taisa831/release-please/commit/39a8a93f44af2aa277cfe2bdcb3be7b096a014cd))
+* update readme ([3c9b6c5](https://github.com/taisa831/release-please/commit/3c9b6c5a99231561fa3b5594cd64f01f2157874f))
+
 ## [2.0.1](https://github.com/taisa831/release-please/compare/v2.0.0...v2.0.1) (2022-08-06)
 
 
