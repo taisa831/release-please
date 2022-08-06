@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/taisa831/release-please/compare/v2.0.0...v2.0.1) (2022-08-06)
+
+
+### Bug Fixes
+
+* delete actions ([0a88f1d](https://github.com/taisa831/release-please/commit/0a88f1d6169c70d34df18aad8e5be85ed4a010d2))
+* release-please ([eb49709](https://github.com/taisa831/release-please/commit/eb49709b9036ac4ab6a66d003233f4707ddfd728))
+
 ## [2.0.0](https://github.com/taisa831/release-please/compare/v1.4.0...v2.0.0) (2022-08-05)
 
 
