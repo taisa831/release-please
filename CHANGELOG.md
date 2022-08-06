@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/taisa831/release-please/compare/v2.0.2...v2.1.0) (2022-08-06)
+
+
+### Miscellaneous Chores
+
+* release 2.1.0 ([82af070](https://github.com/taisa831/release-please/commit/82af07049b620c0ccf26d3cc99def1d8432df969))
+
 ## [2.0.2](https://github.com/taisa831/release-please/compare/v2.0.1...v2.0.2) (2022-08-06)
 
 
