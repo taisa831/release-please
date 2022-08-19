@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0-beta.0](https://github.com/taisa831/release-please/compare/v2.12.1-beta.0...v2.13.0-beta.0) (2022-08-19)
+
+
+### Features
+
+* README ([e003f5d](https://github.com/taisa831/release-please/commit/e003f5d1e18be9b0455a42234c976bf10e0093f9))
+
 ## [2.12.1-beta.0](https://github.com/taisa831/release-please/compare/v2.12.0-beta.0...v2.12.1-beta.0) (2022-08-19)
 
 
