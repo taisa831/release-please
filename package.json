@@ -2,5 +2,5 @@
   "devDependencies": {
     "release-please": "^13.19.8"
   },
-  "version": "2.12.0-beta.0"
+  "version": "2.12.1-beta.0"
 }
