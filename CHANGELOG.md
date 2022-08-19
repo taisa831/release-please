@@ -1,5 +1,28 @@
 # Changelog
 
+## [3.0.1-beta.0](https://github.com/taisa831/release-please/compare/v2.1.0-beta.2...v3.0.1-beta.0) (2022-08-19)
+
+
+### Features
+
+* README ([b645bb4](https://github.com/taisa831/release-please/commit/b645bb404d02e36d6124aa1c5723482abf668400))
+* README ([e003f5d](https://github.com/taisa831/release-please/commit/e003f5d1e18be9b0455a42234c976bf10e0093f9))
+
+
+### Bug Fixes
+
+* readme ([b45d5ea](https://github.com/taisa831/release-please/commit/b45d5ea887ad6afb5426e2d27668933fa9a41000))
+* README ([639162e](https://github.com/taisa831/release-please/commit/639162ef04dbed21bdbf305216609f410a57b378))
+* README ([37808ad](https://github.com/taisa831/release-please/commit/37808adf73d907c3d77f5b716392bccbbadf6b21))
+
+
+### Miscellaneous Chores
+
+* release ([af3cc7d](https://github.com/taisa831/release-please/commit/af3cc7d4dfa3306694949144f94361800746d828))
+* release ([2ae2568](https://github.com/taisa831/release-please/commit/2ae25685dd85a3292eb31ae35f89728fd6368e8a))
+* release 3.0.0 ([2ad55e7](https://github.com/taisa831/release-please/commit/2ad55e7aa991582a6d7b149dc4728a7f43988f70))
+* release 3.0.1-beta.0 ([b249b26](https://github.com/taisa831/release-please/commit/b249b265670eaed21f3fbe88f3474c6a13696b2d))
+
 ## [2.1.0-beta.2](https://github.com/taisa831/release-please/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2022-08-19)
 
 
