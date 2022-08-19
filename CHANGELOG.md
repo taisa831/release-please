@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.0-beta.3](https://github.com/taisa831/release-please/compare/v2.1.0...v2.1.0-beta.3) (2022-08-19)
+
+
+### Miscellaneous Chores
+
+* release ([2ae2568](https://github.com/taisa831/release-please/commit/2ae25685dd85a3292eb31ae35f89728fd6368e8a))
+* release 2.1.0-beta.1 ([61cffe3](https://github.com/taisa831/release-please/commit/61cffe39e8c63f9e72c8c99eb41de075c039dcdd))
+* release 2.1.0-beta.2 ([0942d92](https://github.com/taisa831/release-please/commit/0942d92edd8dd089339877631b409f6f5439d157))
+
 ## [2.1.0-beta.3](https://github.com/taisa831/release-please/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2022-08-19)
 
 
